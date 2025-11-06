@@ -1,2 +1,9 @@
-# sql-data-warehouse
-Data warehouse simulation built in C++ using SQLite, Imports CSV data, cleans it, and runs analytics to show sales performance (For class submission)
+# sql-data-warehouse 
+Objective
+Build a small data warehouse using SQLite. Load sales data, clean it, and create basic reports to analyze trends.
+
+to-do 
+Set up the project and database✔️
+Import and clean the data✖️
+Combine datasets into one table✖️
+Run basic analytics✖️
